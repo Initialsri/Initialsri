@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Initialsri
+- 👋 Hi, I’m @Srikant Upadhyay
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning many programming languages like java
 - 💞️ I’m looking to collaborate on automation projects
